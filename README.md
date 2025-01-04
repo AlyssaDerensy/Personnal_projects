@@ -1,10 +1,6 @@
-Voici un exemple de contenu pour le fichier `README.md` de votre dépôt Git regroupant tous vos projets personnels :
+# Personal Projects
 
----
-
-# Personal_Projects
-
-Bienvenue sur mon dépôt **Personal_Projects**, où vous trouverez une collection de mes projets personnels. Ces projets couvrent divers domaines, allant de l'analyse de données et de la visualisation à l'automatisation et au développement d'applications. Chaque dossier contient un projet spécifique avec ses fichiers, sa documentation, et son code source.
+Bienvenue sur mon dépôt **Personal Projects**, où vous trouverez une collection de mes projets personnels. Ces projets couvrent divers domaines, allant de l'analyse de données et de la visualisation à l'automatisation et au développement d'applications. Chaque dossier contient un projet spécifique avec ses fichiers, sa documentation, et son code source.
 
 ---
 
