@@ -1,7 +1,3 @@
-Voici un exemple de README pour présenter votre projet : 
-
----
-
 # Tableau de Bord Power BI pour l'Analyse des Résultats des Films d'Animation et des Films (2000+)
 
 Ce projet a pour objectif de créer un tableau de bord interactif sur Power BI permettant d’analyser les performances des films d’animation et des films sortis à partir des années 2000. Les données utilisées proviennent de l'API **The Movie Database (TMDb)**, et le processus inclut l'extraction, la transformation et la visualisation des données.
