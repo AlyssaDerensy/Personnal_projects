@@ -60,5 +60,3 @@ Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contact
 Merci d’explorer mes projets et d’y trouver de l’inspiration ! 😊
 
 --- 
-
-Ajoutez des liens ou des détails supplémentaires si vous en avez besoin !
